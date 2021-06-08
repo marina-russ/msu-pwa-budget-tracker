@@ -24,7 +24,7 @@ To run this app on your local machine:
 5. Go to localhost:3000 to use the app.
 
 ## Screenshot:
-<img src="" alt="screenshot" width="600">
+<img src="assets/pwa.png" alt="screenshot" width="600">
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
